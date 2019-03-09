@@ -42,6 +42,8 @@ user_groups = []
 #   link = "files/cv.pdf"
 
 +++
-My primary interest is understanding the relation between human behaviour and linguistic diversity, in particular in relation to recent human evolution. I combine data science with insights and (observational) data from linguistic typology, evolutionary anthropology, ethnography and the cognitive sciences.
+My main scientific goal is to understand how and to what extent languages are shaped by collective human behaviour, from the Holocene to today. To this purpose I leverage data on worldwide linguistic diversity, and I devise statistical evaluations to set apart in the structure of languages what is due to contingent historical processes from what emerges out of consistent human biases towards or against specific aspects of language. 
+
+In my work I combine data science with linguistic typology, evolutionary anthropology, ethnography and the cognitive sciences. Across these domains I collaborate with specialists, often in multidisciplinary teams. In order to maximize the ecological validity of my investigations I draw mainly on observational data. As a drawback, and reflecting the convoluted processes that gave rise to the documented linguistic diversity, I regularly wrangle with small, sparse, noisy and non-independent  data (or s<sup>2</sup>n<sup>2</sup> for short), which is now a signature of my work.
 
 My most recent research ranges from the <a href="https://www.nature.com/articles/s41562-017-0192-4">emergence of creole languages</a>, word order patterns, <a href="https://www.pnas.org/content/113/39/10818">form-meaning associations</a>, <a href="https://www.pnas.org/content/112/5/1322">the adaptation of the speech apparatus</a> and the prehistory of worldwide linguistic diversity.
