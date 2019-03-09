@@ -1,0 +1,15 @@
+# Font style metadata
+name = "Especial"
+
+# Optional Google font URL
+google_fonts = "Reem+Kufi|Fauna+One|Niramit|Bellefair|Overpass"
+
+# Font families
+heading_font = "Overpass"
+body_font = "Overpass"
+nav_font = "Overpass"
+mono_font = "Overpass"
+
+# Font size
+font_size = "20"
+font_size_small = "19"

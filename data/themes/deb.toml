@@ -1,0 +1,21 @@
+# Theme metadata
+name = "deb"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#000000"
+primary_light = "#ffffff"
+primary_dark = "#ffffff"
+
+# Menu
+menu_primary = "#ff8080"
+menu_text = "#ffffff"
+menu_text_active = "#ffffff"
+menu_title = "#ffffff"
+
+# Backgrounds
+background = "#ff8080"
+home_section_odd = "#ffffff"
+home_section_even = "#e6e6e6"
