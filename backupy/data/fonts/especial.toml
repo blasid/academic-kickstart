@@ -1,0 +1,15 @@
+# Font style metadata
+name = "Especial"
+
+# Optional Google font URL
+google_fonts = "Reem+Kufi|Fauna+One|Niramit|Bellefair"
+
+# Font families
+heading_font = "Niramit"
+body_font = "Niramit"
+nav_font = "Niramit"
+mono_font = "Niramit"
+
+# Font size
+font_size = "20"
+font_size_small = "18"
